@@ -12,3 +12,4 @@ console.log( nombre__completo())
 let personas = new Array(nombre__completo(), "Antonio Perez");
 console.log(personas[1]);
 console.log(personas[2])
+//También hay una extensión ESLint
